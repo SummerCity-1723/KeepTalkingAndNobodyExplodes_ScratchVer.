@@ -1,2 +1,6 @@
 # KeepTalkingAndNobodyExplodes_ScratchVer.
-A bomb defusing game(originally a steam game) made by Scratch
+"Keep Talking And Nobody Explodes"("Ktane"for short) is a steam game(seems to be very popular around 2020 awa).
+This respositories is Ktane, but I made it in Scratch.(Why? Bcz it costs 50 CNY......)
+
+The game took me about 4 months(project started on Feb.18th,2024).
+Have Fun with this game!
